@@ -14,8 +14,8 @@ public class SpringSecurityCrudApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityCrudApplication.class, args);
 		//Refazer a aula
-			//6.7. Movendo o refresh token para o cookie
-		
+			//6.9. Cors
+		//Foi movido o refresh Token do Cookie para um header de http usando servlet 
 			
 		//Realizando a Autenticação básica
 		//Curso
